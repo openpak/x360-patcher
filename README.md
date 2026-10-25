@@ -1,12 +1,20 @@
-# OpenPak Xbox 360 Patcher
+# Xbox 360 Patcher
 
-The client side of OpenPak for the **Xbox 360**: what a player runs on their console to point it at
-OpenPak's network instead of the original one, and back.
+OpenPak's Xbox 360 Patcher.
 
-**Not available yet.** Xbox 360 support is in development; this repository is a placeholder for the
-patcher. Track progress on [openpak.org/features](https://openpak.org/features) and in the
-[docs](https://docs.openpak.org).
+| | |
+| --- | --- |
+| Console | Xbox 360 |
+| Kind | Client patcher |
+| Licence | `AGPL-3.0-only`, see [LICENSE](LICENSE) |
 
-OpenPak never ships games, firmware, keys or console data. Use your own console and your own games.
+## Docs
+
+- [Protocol](docs/protocol.md)
+- [Evidence](docs/evidence.md)
+- [Deploy](docs/deploy.md)
+- [Notes](docs/notes.md)
+
+## Licence
 
 Licensed under the GNU Affero General Public License v3.0 only (see [LICENSE](LICENSE)).
